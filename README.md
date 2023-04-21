@@ -11,7 +11,7 @@ I'am Murdock-XD From Indonesian
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Al-Vino/Al-Vino/main/giphy.webp"
 
-<a href="[https](https://github.com/MurdockXD/MurdockXD/blob/6012ce56ab6202d6b5086757d041f27d0293030b/IMG_20230415_110556_395.jpg)://github.com/MurodockXD"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Murdock-ID&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="[https://github.com/MurodockXD"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Murdock-ID&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 <li> 😍 <i> MUSLIM</i></li>
 <li> 🌚 <i> SINGLE</i></li>
 <li> 👩‍💻 <i> TEACHER</i></li>
