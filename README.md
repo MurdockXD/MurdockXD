@@ -1,3 +1,5 @@
+https://github.com/MurdockXD/MurdockXD/blob/9d0a032c8e1d66fa4a82020aa7191079a36573ce/IMG_20230415_110556_395.jpg
+
 
 I'am Murdock-XD From Indonesian
 
