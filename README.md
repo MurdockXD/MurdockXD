@@ -1,6 +1,6 @@
 
 
-I'am Murdock-XD From Indonesian
+<h1 align="center">Hi 👋, I'm Murdock-ID</h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
