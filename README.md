@@ -1,4 +1,6 @@
-1>
+
+I'am Murdock-XD From Indonesian
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
