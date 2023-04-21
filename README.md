@@ -8,7 +8,6 @@ I'am Murdock-XD From Indonesian
 
 </p>
 <h1 align="center">★ You Crazy ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
-<h1 align="center"> <img src="https://chart.apis.google.com/chart?cht=qr&choe=UTF-8&chs=250x250&chld=L&chl=github.com%2FBasari-ID" alt="QR Code Generator"><a href="https://dnschecker.org" rel="nofollow" border="0">    QR Code My Github Profil Gua Broo 🤗</a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Al-Vino/Al-Vino/main/giphy.webp"
 
