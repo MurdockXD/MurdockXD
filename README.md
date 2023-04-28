@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murdockxd" alt="murdockxd" /></a> </p>
 
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/L8Cr9GFp/gif-hacker-6.gif' border='0' alt='gif-hacker-6'/></a>
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
