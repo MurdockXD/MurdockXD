@@ -18,9 +18,7 @@
 </p>
 <h1 align="center">★ You Crazy ★ <img src="https://github.com/mitul3737/mitul3737/blob/main/mituls code.gif"
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Al-Vino/Al-Vino/main/giphy.webp"
 
-<a href="[https://github.com/MurodockXD"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Murdock-ID&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 <li> 😍 <i> MUSLIM</i></li>
 <li> 🌚 <i> SINGLE</i></li>
 <li> 👩‍💻 <i> TEACHER</i></li>
