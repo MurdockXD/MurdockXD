@@ -4,8 +4,9 @@
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murdockxd&label=Profile%20views&color=0e75b6&style=flat" alt="murdockxd" /> </p>
+<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murdockxd" alt="murdockxd" /></a> </p>
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/L8Cr9GFp/gif-hacker-6.gif' border='0' alt='gif-hacker-6'/></a>
 
